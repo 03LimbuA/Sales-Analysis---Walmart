@@ -47,7 +47,7 @@ The table created, including the 3 new columns, can be viewed here: [TABLEwalmar
 ## The Analysis
 **The coding used to find these results can be found in this file: [WalmartSQLqueries.sql](https://github.com/03LimbuA/Sales-Analysis---Walmart/blob/main/WalmartSQLqueries.sql)**
 
-**The full analysis answering the questions below can be found in this file:**
+**The full analysis answering the questions below can be found in this file: [analysis walmart word PDF.pdf](https://github.com/03LimbuA/Sales-Analysis---Walmart/blob/main/analysis%20walmart%20word%20PDF.pdf)**
 
 ### Generic Question
 1. How many unique cities does the data have?
