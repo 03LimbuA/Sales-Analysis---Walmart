@@ -42,12 +42,15 @@ I obtained the dataset from the Youtube Channel 'Code with Prince'; it contains 
 
 > 3. Creating a new column `month_name` regarding sales in which month (Jan, Feb, Mar).
 
-The table created, including the 3 new columns, can be viewed here: 
+The table created, including the 3 new columns, can be viewed here: [TABLEwalmartRESULTS.csv](https://github.com/03LimbuA/Sales-Analysis---Walmart/blob/main/TABLEwalmartRESULTS.csv)
 
-Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
-Sales Analysis
-This analysis aims to answer the question of the sales trends of product. The result of this can help use measure the effectiveness of each sales strategy the business applies and what modificatoins are needed to gain more sales.
-Customer Analysis
-This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
+## The Analysis
+**(The coding used to find these results can be found in this file: [WalmartSQLqueries.sql](https://github.com/03LimbuA/Sales-Analysis---Walmart/blob/main/WalmartSQLqueries.sql)**
+
+How many unique cities in the data?
+3 
+
+In which city is each branch located?
+
 
 ![Image 15-01-2025 at 15 47](https://github.com/user-attachments/assets/ebe54f20-002c-4c8f-a404-e20af55b4c55)
