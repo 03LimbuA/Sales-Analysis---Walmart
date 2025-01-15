@@ -1,8 +1,8 @@
 # Sales-Analysis---Walmart
 
-This Data Analysis project, inspired by and following the tutorial of the Youtube Channel [Code with Prince](https://www.youtube.com/watch?v=36fBGMT0tuE) , looks at historical sales data for 45 Walmart stores, provided by the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
+This SQL Data Analysis project, inspired by and following the tutorial of the Youtube Channel [Code with Prince](https://www.youtube.com/watch?v=36fBGMT0tuE) , looks at historical sales data for 45 Walmart stores, provided by the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting). This project aims to examine the provided data, and identify the highest performing branches and products, analyse sales trends across various product lines and times (regarding times of the day, weekdays, months), and gain insights into the quality of service experienced by customers in these stores. 
 
-This project aims to examine the provided data, and identify the highest performing branches and products, analyse sales trends across various product lines and times (regarding times of the day, weekdays, months), and gain insights into the quality of service experienced by customers in these stores. 
+The SQL queries for this project was written using MySQL Workbench.
 
 ## The Dataset
 Official Dataset Source = [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
