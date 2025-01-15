@@ -1,6 +1,6 @@
 # Sales-Analysis---Walmart
 
-This Data Analysis project, inspired by and following the tutorial of the Youtube Channel 'Code with Prince' https://www.youtube.com/watch?v=36fBGMT0tuE, looks at historical sales data for 45 Walmart stores, provided by the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
+This Data Analysis project, inspired by and following the tutorial of the Youtube Channel [Code with Prince](https://www.youtube.com/watch?v=36fBGMT0tuE) , looks at historical sales data for 45 Walmart stores, provided by the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
 
 This project aims to examine the provided data, and identify the highest performing branches and products, analyse sales trends across various product lines and times (regarding times of the day, weekdays, months), and gain insights into the quality of service experienced by customers in these stores. 
 
@@ -28,3 +28,26 @@ I obtained the dataset from the Youtube Channel 'Code with Prince'; it contains 
 | gross_margin_percentage | Gross margin percentage                 | FLOAT(11, 9)   |
 | gross_income            | Gross Income                            | DECIMAL(10, 2) |
 | rating                  | Rating                                  | FLOAT(2, 1)    |
+
+## Preparing The Analysis
+**DATA WRANGLING :** When creating our table, we put NOT NULL to ensure there are no null values in our database (filtering out null values)
+> 1. Build a database 'salesDataWalmart'
+> 2. Create table 'sales' and insert the data
+> 3. put **NOT NULL** for each field
+
+**FEATURE ENGINEERING :** Generating new columns, regarding time, from existing ones. These new columns will help give insights into which time of the day most sales are made, which weekday each branch is busiest, and which month shows the most sales and profit.
+> 1. Creating a new column `time_of_day`, regarding sales in the Morning, Afternoon, Evening. 
+
+> 2. Creating a new column `day_name` regarding sales in which day of the week (Mon, Tue, Wed, Thur, Fri). 
+
+> 3. Creating a new column `month_name` regarding sales in which month (Jan, Feb, Mar).
+
+The table created, including the 3 new columns, can be viewed here: 
+
+Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
+Sales Analysis
+This analysis aims to answer the question of the sales trends of product. The result of this can help use measure the effectiveness of each sales strategy the business applies and what modificatoins are needed to gain more sales.
+Customer Analysis
+This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
+
+![Image 15-01-2025 at 15 47](https://github.com/user-attachments/assets/ebe54f20-002c-4c8f-a404-e20af55b4c55)
