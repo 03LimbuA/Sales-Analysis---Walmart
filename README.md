@@ -98,6 +98,16 @@ ORDER BY gender_cnt DESC;
 
 ## Visualising the data
 
-Using Tableau, I created 3 dashboards visualising the data, in order to aid in product analysis, sales analysis, and customer analysis.
+Using Tableau Public, I created 3 dashboards visualising the data, in order to aid in product analysis, sales analysis, and customer analysis.
 
+[Sales Analysis, Tableau](https://public.tableau.com/app/profile/a.l5815/viz/WALMARTSALESANALYSIStableaudashboard/SalesAnalysis)
+![Image 17-01-2025 at 20 13](https://github.com/user-attachments/assets/7bade340-d03c-4473-8964-a5371b7acbb0)
+
+
+[Product Analysis, Tableau](https://public.tableau.com/app/profile/a.l5815/viz/WALMARTPRODUCTANALYSIStableaudashboard/ProductAnalysis?publish=yes)
 ![Image 17-01-2025 at 18 40](https://github.com/user-attachments/assets/ce071f82-00ef-441f-8476-2db3890cf8f6)
+
+
+[Customer Analysis, Tableau](https://public.tableau.com/app/profile/a.l5815/viz/WALMARTCUSTOMERANALYSIStableaudashboard/CustomerAnalysis)
+![Image 17-01-2025 at 20 12](https://github.com/user-attachments/assets/c12ed145-cbb2-45fc-8a81-e172ad676d42)
+
