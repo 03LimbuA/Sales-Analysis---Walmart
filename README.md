@@ -96,5 +96,8 @@ ORDER BY gender_cnt DESC;
 9. Which day fo the week has the best avg ratings?
 10. Which day of the week has the best average ratings per branch?
 
+## Visualising the data
 
+Using Tableau, I created 3 dashboards visualising the data, in order to aid in product analysis, sales analysis, and customer analysis.
 
+![Image 17-01-2025 at 18 40](https://github.com/user-attachments/assets/ce071f82-00ef-441f-8476-2db3890cf8f6)
