@@ -60,6 +60,13 @@ ORDER BY gender_cnt DESC;
 
 **The full analysis answering the questions below can be found in this file: [analysis walmart word PDF.pdf](https://github.com/03LimbuA/Sales-Analysis---Walmart/blob/main/analysis%20walmart%20word%20PDF.pdf)**
 
+A few examples of the full analysis:
+>1. Understanding times that get the most positive/negative ratings can help these Walmart stores identify the time of day when issues are most likely to occur, e.g., staffing needs, product availability. This insight can lead to targeted improvements in the areas during those specific times.
+>-	However, the data shows that the time of the day doesn’t seem to affect the quality of the service experienced by customers in these Walmart stores, as each time of the day (morning, afternoon, evening) seem to have similar ratings.
+>2. Some businesses, often retailers, use 'member' to distinguish between those who buy regularly from them compared to those who do not.
+>-	Customers who are members can bring more revenue than ‘normal’ customers - however, the data shows that there’s no significant difference in the amount of revenue brought by Member customers, compared to Normal/Non-member customers.
+
+
 ### Generic Question
 1. How many unique cities does the data have?
 2. In which city is each branch?
